@@ -46,14 +46,6 @@
 <br>
 <br />
 
-<p><a href="https://github.com/himeshr#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=himeshr&theme=nightowl#gh-dark-mode-only" alt="himeshr"/></a>
-<a href="https://github.com/himeshr#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=himeshr&theme=vue#gh-light-mode-only" alt="himeshr"/></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/himeshr#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=himeshr&theme=nightowl#gh-dark-mode-only" alt="himeshr" /></a>
-<a href="https://github.com/himeshr#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=himeshr&theme=vue#gh-light-mode-only" alt="himeshr" /></a></p>
-<br/>
 
 ---
 
