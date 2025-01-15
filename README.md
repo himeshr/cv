@@ -1,4 +1,4 @@
-<h1>😅 Himesh</h1>
+<h1>😆 Himesh</h1>
 <br /> 
 
                     
@@ -56,18 +56,6 @@
 <br/>
 
 ---
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/avniproject/avni-server#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himeshr&repo=avniproject/avni-server&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/avniproject/avni-server#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himeshr&repo=avniproject/avni-server&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
 
 <h2>Connect With Me</h2> 
 <p align="left">
